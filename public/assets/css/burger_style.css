@@ -1,0 +1,39 @@
+body {
+    background-color: #FFFFE0;
+    margin: auto;
+    width: 90%;
+}
+.container {
+	background-color: #FFFFE0;
+    margin: auto;
+    width: 100%;
+    columns: 100px 2;
+}
+.centering {
+	text-align: center;
+	margin: auto;
+	width: 90%;
+	padding: 20px;
+}
+img {
+	background-color: #FFFFE0;
+}
+li {
+  background: #FAEBD7;
+  margin: 5px;
+  padding: 5px;
+.label {
+}
+
+  font-weight: bold;
+}
+
+.create-update-form {
+  background: #FFFFE0;
+  margin: 5px;
+  padding: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
